@@ -1,0 +1,8 @@
+Notas de aulas:
+
+
+Links importantes para guardar:
+
+	- Download do Git: https://git-scm.com/downloads
+
+Neste arquivo ocorreu o primeiro teste de commit com o Git.
